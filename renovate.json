@@ -5,5 +5,6 @@
   ],
   "npm": {
     "minimumReleaseAge": "300 days"
-  }
+  },
+  "osvVulnerabilityAlerts": true
 }
