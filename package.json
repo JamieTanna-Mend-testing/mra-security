@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "validator": "^13.6.0"
+    "validator": "^13.5.0"
   }
 }
