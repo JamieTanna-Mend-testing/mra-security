@@ -1,0 +1,9 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    ":enableVulnerabilityAlerts"
+  ],
+  "npm": {
+    "minimumReleaseAge": "300 days"
+  }
+}
