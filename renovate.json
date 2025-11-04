@@ -3,6 +3,7 @@
   "extends": [
     ":enableVulnerabilityAlerts"
   ],
+  "dependencyDashboard": true,
   "npm": {
     "minimumReleaseAge": "300 days"
   },
